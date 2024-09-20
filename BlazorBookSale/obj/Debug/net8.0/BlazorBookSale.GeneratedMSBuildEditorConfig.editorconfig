@@ -26,6 +26,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZGRCb29rU2FsZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/CT288/CT288_Client-Sever/BlazorBookSale/Components/Pages/BookSale.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCb29rU2FsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/CT288/CT288_Client-Sever/BlazorBookSale/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
